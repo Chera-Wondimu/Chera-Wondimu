@@ -41,9 +41,21 @@
 
 <br/>
 
-<!-- 03. COMPETITIVE PROGRAMMING -->
+<!-- 03. FEATURED WORK & PROJECTS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A98BFF¢er=true&vCenter=true&width=600&lines=03.+COMPETITIVE+PROGRAMMING" width="100%" alt="03. Competitive Programming"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A98BFF¢er=true&vCenter=true&width=600&lines=03.+FEATURED+PROJECTS" width="100%" alt="03. Featured Projects"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Chera-Wondimu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chera-Wondimu&repo=Chera-Wondimu&theme=radical&hide_border=true&radius=16" alt="Pinned Repo" width="48%"/></a>
+  <a href="https://github.com/Chera-Wondimu"><img src="https://github-readme-stats.vercel.app/api/?username=Chera-Wondimu&show_icons=true&theme=radical&hide_border=true&radius=16&count_private=true" alt="GitHub Stats" width="48%"/></a>
+</p>
+
+<br/>
+
+<!-- 04. COMPETITIVE PROGRAMMING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A98BFF¢er=true&vCenter=true&width=600&lines=04.+COMPETITIVE+PROGRAMMING" width="100%" alt="04. Competitive Programming"/>
 </p>
 
 <p align="center">
@@ -57,9 +69,9 @@
 
 <br/>
 
-<!-- 04. GITHUB PULSE -->
+<!-- 05. GITHUB PULSE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A98BFF¢er=true&vCenter=true&width=600&lines=04.+GITHUB+PULSE" width="100%" alt="04. GitHub Pulse"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A98BFF¢er=true&vCenter=true&width=600&lines=05.+GITHUB+PULSE" width="100%" alt="05. GitHub Pulse"/>
 </p>
 
 <p align="center">
