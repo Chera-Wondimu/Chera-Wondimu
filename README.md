@@ -8,6 +8,7 @@
   <a href="https://leetcode.com/Chera_wondimu"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://codeforces.com/profile/chera.wondimu17"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://github.com/Chera-Wondimu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:chera.wondimu17@gmail.com"><img src="https://img.shields.io/badge/Email-chera.wondimu17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
 </p>
 
 <br/>
@@ -84,6 +85,8 @@
     <img src="https://raw.githubusercontent.com/Chera-Wondimu/Chera-Wondimu/output/snake.svg" alt="contribution snake" width="100%"/>
   </picture>
 </p>
+
+
 
 <!-- FOOTER BANNER -->
 <p align="center">
