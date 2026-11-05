@@ -3,9 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://chera-wondimu.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Chera-Wondimu/Chera-Wondimu/main/assets/link-portfolio.svg" width="31%" alt="Portfolio"/>
-  </a>
+<a href="https://chera-wondimu.vercel.app/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/Chera-Wondimu/Chera-Wondimu/main/assets/link-portfolio.svg"
+    width="31%"
+    alt="Visit my portfolio"
+  />
+</a>
   <a href="https://www.linkedin.com/in/codedbychera/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="31%" alt="LinkedIn"/>
   </a>
