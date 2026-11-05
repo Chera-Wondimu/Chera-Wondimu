@@ -44,8 +44,8 @@
 <img src="./assets/h-projects.svg" width="100%" alt="03. Featured work"/>
 
 <p align="center">
-  <a href="https://github.com/Chera-Wondimu/university-learning-and-internship-platform" target="_blank">
-    <img src="./assets/project-unipath.svg" width="49%" alt="UniPath — University Learning and Internship Platform"/>
+  <a href="https://chera-wondimu.vercel.app/" target="_blank">
+    <img src="./assets/project-next.svg" width="49%" alt="Chera Wondimu Portfolio"/>
   </a>
   <a href="https://github.com/Chera-Wondimu/CSEC-CPD-PRACTICE" target="_blank">
     <img src="./assets/project-cp.svg" width="49%" alt="Competitive Programming Practice"/>
@@ -53,13 +53,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Chera-Wondimu?tab=repositories" target="_blank">
-    <img src="./assets/project-next.svg" width="49%" alt="Next Project — In Progress"/>
+  <a href="https://github.com/Chera-Wondimu/university-learning-and-internship-platform" target="_blank">
+    <img src="./assets/project-unipath.svg" width="49%" alt="UniPath — University Learning and Internship Platform"/>
   </a>
 </p>
-
-<br/>
-
 <img src="./assets/h-cp.svg" width="100%" alt="04. Competitive programming"/>
 
 <p align="center">
