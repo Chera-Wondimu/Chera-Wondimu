@@ -4,6 +4,9 @@
 </p>
 
 <!-- QUICK LINKS & SOCIALS -->
+<a href="https://chera-wondimu.vercel.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Chera-Wondimu/Chera-Wondimu/main/assets/link-portfolio.svg" width="320" alt="Visit my portfolio"/>
+</a>
 <p align="center">
   <a href="https://leetcode.com/Chera_wondimu"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://codeforces.com/profile/chera.wondimu17"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
