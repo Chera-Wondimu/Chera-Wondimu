@@ -44,33 +44,21 @@
 <img src="./assets/h-projects.svg" width="100%" alt="03. Featured work"/>
 
 <p align="center">
-
+  <!-- Portfolio -->
   <a href="https://chera-wondimu.vercel.app/" target="_blank">
-    <img src="./assets/project-next.svg" width="49%" alt="Visit Chera Wondimu Portfolio"/>
+    <img src="./assets/project-cp.svg" width="49%" alt="Chera Wondimu Portfolio"/>
   </a>
 
-  <a href="https://github.com/Chera-Wondimu/CSEC-CPD-PRACTICE" target="_blank">
-    <img src="./assets/project-cp.svg" width="49%" alt="Competitive Programming Practice"/>
+  <!-- Next Project -->
+  <a href="https://github.com/Chera-Wondimu?tab=repositories" target="_blank">
+    <img src="./assets/project-next.svg" width="49%" alt="Next Project — In Progress"/>
   </a>
-
 </p>
 
 <p align="center">
+  <!-- UniPath -->
   <a href="https://github.com/Chera-Wondimu/university-learning-and-internship-platform" target="_blank">
     <img src="./assets/project-unipath.svg" width="49%" alt="UniPath — University Learning and Internship Platform"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Chera-Wondimu/university-learning-and-internship-platform" target="_blank">
-    <img src="./assets/project-unipath.svg" width="49%" alt="UniPath — University Learning and Internship Platform"/>
-  </a>
-</p>
-<img src="./assets/h-cp.svg" width="100%" alt="04. Competitive programming"/>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Chera_Wondimu/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Chera_Wondimu?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=16" alt="LeetCode stats" width="560"/>
   </a>
 </p>
 
