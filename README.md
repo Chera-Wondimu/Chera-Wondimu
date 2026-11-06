@@ -15,7 +15,7 @@
       alt="Visit my portfolio"
     />
   </a>
-  <a href="https://www.linkedin.com/in/codedbychera/" target="_blank">
+  <a href="https://www.linkedin.com/in/chera-wondimu-a45956411/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       width="31%"
