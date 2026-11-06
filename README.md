@@ -30,6 +30,13 @@
     />
   </a>
 </p>
+<a href="https://t.me/codedbychera" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    width="31%"
+    alt="Telegram — @codedbychera"
+  />
+</a>
 
 <p align="center">
   <a href="https://leetcode.com/u/Chera_Wondimu/" target="_blank">
